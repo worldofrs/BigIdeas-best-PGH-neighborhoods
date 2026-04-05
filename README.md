@@ -1,7 +1,7 @@
 # BigIdeas-best-PGH-neighborhoods
 Pittsburgh's best neighborhood
 
-**Group 3**
+## Group Name: *Group 3*
 
 ## Team Members
 - **Raima Saha** – raimasaha28@gmail.com 
