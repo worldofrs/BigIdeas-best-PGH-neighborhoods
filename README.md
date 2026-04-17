@@ -15,4 +15,4 @@ UNKNOWN AS OF RIGHT NOW (HAVENT PICKED A NEIGHBORHOOD AS OF RIGHT NOW):
 - [City of Pittsburgh Public Art](https://data.wprdc.org/datastore/dump/00d74e83-8a23-486e-841b-286e1332a151) – Public art projects within the city of Pittsburgh, shares the type of art, artist's name and the location of the art. 
 - [Neighborhoods with SNAP Data](https://data.wprdc.org/dataset/neighborhoods-with-snap-data) –  SNAP information across the city of Pittsburgh, which includes information about walkability, greenspace, park acres. 
 ## Repository Overview
-A one-sentence summary: 
+This project analyzes Pittsburgh neighborhoods using quality of life metrics, convenience, accessibility, and cosmetics, to determine the best place to live. Using our 3 data sets, our analysis has identified Squirrel Hill as Pittsburgh's best neighborhood.
